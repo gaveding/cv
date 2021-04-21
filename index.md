@@ -19,6 +19,7 @@
       </tr>
     </table>
 
+    <p>This is index.md</p><br>
 
     <!--
     <img src="images/Happy Meal Pony.png" alt="Happy Meal Mascot as a pony">
